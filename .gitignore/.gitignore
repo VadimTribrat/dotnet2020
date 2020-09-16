@@ -46,7 +46,6 @@ x64/
 *.log
 *.svclog
 *.scc
-*.onnx
 
 # Visual C++ cache files
 ipch/
@@ -100,6 +99,7 @@ ClientBin/
 *~
 *.dbmdl
 *.[Pp]ublish.xml
+*.onnx
 
 *.publishsettings
 
